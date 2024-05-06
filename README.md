@@ -4,9 +4,9 @@
 
 ## 🔎 About me:
 
-<div style="overflow: auto;">
-  <img style="float: right;" alt="About me" width="300" src="./image/about.png">
-  <div style="overflow: hidden;"> 
+<div>
+  <img align="right" alt="About me" width="200" src="./image/about.png">
+  <div> 
     <ul>
       <li>🔭 I am currently pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <a href="https://uit.edu.vn">University of Information Technology</a>.</li>
       <li>🌱 I am passionately delving into <strong>Java</strong> and the <strong>Spring Boot Framework</strong>!</li>
@@ -14,6 +14,7 @@
       <li>📫 How to reach me: <a href="mailto:nguyenlengocmai000@gmail.com">nguyenlengocmai000@gmail.com</a></li>
     </ul>
   </div>
+  <br></br>
 </div>
 
 
