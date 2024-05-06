@@ -5,7 +5,7 @@
 ## 🔎 About me:
 
 <div style="overflow: auto;">
-  <img align="right" alt="About me" width="200" src="./image/about.png">
+  <img style="float: right;" alt="About me" width="300" src="./image/about.png">
   <div style="overflow: hidden;"> 
     <ul>
       <li>🔭 I am currently pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <a href="https://uit.edu.vn">University of Information Technology</a>.</li>
@@ -14,7 +14,6 @@
       <li>📫 How to reach me: <a href="mailto:nguyenlengocmai000@gmail.com">nguyenlengocmai000@gmail.com</a></li>
     </ul>
   </div>
-  <div style="clear: both;"></div> 
 </div>
 
 
