@@ -46,7 +46,7 @@
 <br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NLNM-0-0&theme=darcula&hide_border=false)<br/>
 <br></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NLNM-0-0&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NLNM-0-0&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 <br></br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NLNM-0-0?theme=dark)
 
