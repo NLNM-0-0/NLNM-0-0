@@ -1,6 +1,8 @@
-<h3 align="center"> Hi there 👋,  </h1>
-<h3 align="center"> My name is Mai.</h1>
+<h3 align="center"> Hi there <img src="gif/wave-hi.gif" width="20">  </h3>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=435&height=80&lines=My+name+is+Mai%2C;a+hardworking+developer;always+eager+to+learn+new+things.)](https://git.io/typing-svg)
+</div>
 
 ## 🔎 About me:
 
@@ -10,7 +12,7 @@
     <ul>
       <li>🔭 I am currently pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <a href="https://uit.edu.vn">University of Information Technology</a>.</li>
       <li>🌱 I am passionately delving into <strong>Java</strong> and the <strong>Spring Boot Framework</strong>!</li>
-      <li>☕ I am keen on pursuing a career as a <strong>Java Backend Developer</strong>.</li>
+      <li>☕ I am keen on pursuing a career as a <strong>Backend Developer</strong>.</li>
       <li>📫 How to reach me: <a href="mailto:nguyenlengocmai000@gmail.com">nguyenlengocmai000@gmail.com</a></li>
     </ul>
   </div>
