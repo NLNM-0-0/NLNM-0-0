@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there <img src="gif/wave-hi.gif" width="20">  </h3>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=6592EC&multiline=true&random=false&width=435&height=80&lines=My+name+is+Mai%2C;a+hardworking+developer;always+eager+to+learn+new+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=6592EC&multiline=true&random=false&width=435&duration=3000&pause=0&height=80&lines=My+name+is+Mai%2C;a+hardworking+developer;always+eager+to+learn+new+things.)](https://git.io/typing-svg)
 </div>
 
 ## 🔎 About me:
