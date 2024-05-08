@@ -1,26 +1,26 @@
-<h3 align="center"> Hi there <img src="gif/wave-hi.gif" width="20">  </h3>
+<h3 align="center"> Hi there <img src="image/icon/waving_hand.png" width="30">  </h3>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=6592EC&multiline=true&random=false&width=435&duration=3000&pause=0&height=80&lines=My+name+is+Mai%2C;a+hardworking+developer;always+eager+to+learn+new+things.)](https://git.io/typing-svg)
 </div>
 
-## 🔎 About me:
+<h2> <img src="image/icon/robot.png" width="30"> About me </h2>
 
 <div>
   <img align="right" alt="About me" width="200" src="./gif/about_gif.gif">
-  <div> 
+  <div>
     <ul>
-      <li>🔭 I am currently pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <a href="https://uit.edu.vn">University of Information Technology</a>.</li>
-      <li>🌱 I am passionately delving into <strong>Java</strong> and the <strong>Spring Boot Framework</strong>!</li>
-      <li>☕ I am keen on pursuing a career as a <strong>Backend Developer</strong>.</li>
-      <li>📫 How to reach me: <a href="mailto:nguyenlengocmai000@gmail.com">nguyenlengocmai000@gmail.com</a></li>
+      <li><img src="image/icon/rocket.png" width="20"> I am currently pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <a href="https://uit.edu.vn">University of Information Technology</a>.</li>
+      <li><img src="image/icon/fire.png" width="20"> I am passionately delving into <strong>Java</strong> and the <strong>Spring Boot Framework</strong>!</li>
+      <li><img src="image/icon/coffee.png" width="20"> I am keen on pursuing a career as a <strong>Backend Developer</strong>.</li>
+      <li><img src="image/icon/mail.png" width="20"> How to reach me: <a href="mailto:nguyenlengocmai000@gmail.com">nguyenlengocmai000@gmail.com</a></li>
     </ul>
   </div>
   <br></br>
 </div>
 
+<h2> <img src="image/icon/star.png" width="30"> Worked application </h2>
 
-## 💻 Worked application:
 - [Internal company Web](https://github.com/NLNM-0-0/company-internal-web)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,gmail)](https://skillicons.dev)
@@ -40,7 +40,8 @@
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
-## 📊 Stats:
+<h2> <img src="image/icon/calendar.png" width="30"> Stats </h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=NLNM-0-0&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NLNM-0-0&theme=github_dark_dimmed&hide_border=false)<br/>
@@ -49,12 +50,12 @@
 <br></br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NLNM-0-0?sheets=https://gist.githubusercontent.com/NLNM-0-0/192193d81056d3ab691907c204834e75/raw/e20907990ca17223911ad8222ca1accc0abdf4be/git_profile_leetcode.css&ext=heatmap)
 
-## 🌐 Socials:
+<h2> <img src="image/icon/hand_shake.png" width="30"> Socials </h2>
 <div>
-<a href="https://www.facebook.com/lengocmai.nguyen.13" target="blank"><img src="./image/facebook.svg" alt="Facebook" height="40" width="40" /></a>
+<a href="https://www.facebook.com/lengocmai.nguyen.13" target="blank"><img src="./image/connect/facebook.svg" alt="Facebook" height="40" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/nlnm-0-0" target="blank"><img src="./image/leetcode.svg" alt="LeetCode" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/nlnm-0-0" target="blank"><img src="./image/connect/leetcode.svg" alt="LeetCode" height="40" width="40" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:nguyenlengocmai000@gmail.com" target="blank"><img src="./image/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:nguyenlengocmai000@gmail.com" target="blank"><img src="./image/connect/gmail.svg" alt="Email" height="30" width="40" /></a>
 </div>
 
