@@ -21,26 +21,23 @@
 
 
 ## 💻 Worked application:
-- [Website nội bộ công ty](https://github.com/kimthu09/company-internal-web)
+- [Internal company Web](https://github.com/NLNM-0-0/company-internal-web)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,gmail)](https://skillicons.dev)
-- [Website quản lý nhà sách](https://github.com/kimthu09/book-store-web)
+- [Bookstore management Web](https://github.com/NLNM-0-0/book-store-web)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=golang,mysql,gmail,docker)](https://skillicons.dev)
-- [Website quản lý quán cà phê](https://github.com/NLNM-0-0/SE100.O12-coffee-shop-management)
+- [Coffee shop management Web](https://github.com/NLNM-0-0/SE100.O12-coffee-shop-management)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=golang,mysql,docker)](https://skillicons.dev)
- - [Flutter app quản lý quán cà phê](https://github.com/NLNM-0-0/SE100.O12-coffee-shop-management)
+ - [Coffee delivery Flutter app](https://github.com/NLNM-0-0/SE346.N21_coffee_shop)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase)](https://skillicons.dev)
- - [Android app quản lý quán cà phê](https://github.com/NLNM-0-0/SE100.O12-coffee-shop-management)
+ - [Coffee delivery Android app](https://github.com/NLNM-0-0/SE114.N21_coffee-shop_native)
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=java,firebase)](https://skillicons.dev)
-  - [Window app quản lý nhà sách](https://github.com/NLNM-0-0/BookManagement)
+  - [Bookstore management Window app](https://github.com/NLNM-0-0/BookManagement)
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
- - [Window app thương mại điện tử](https://github.com/NLNM-0-0/WPFEcommerceAPP)
- 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 ## 📊 Stats:
