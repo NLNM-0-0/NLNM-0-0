@@ -55,7 +55,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NLNM-0-0&theme=github_dark_dimmed&hide_border=false&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<br></br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NLNM-0-0?sheets=https://gist.githubusercontent.com/NLNM-0-0/192193d81056d3ab691907c204834e75/raw/e20907990ca17223911ad8222ca1accc0abdf4be/git_profile_leetcode.css&ext=heatmap)
 
 <h2> <img src="image/icon/hand_shake.png" width="30"> Socials </h2>
