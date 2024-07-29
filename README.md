@@ -12,8 +12,8 @@
   <div>
     <ul>
       <li><img src="image/icon/rocket.png" width="20"> I am currently pursuing a Bachelor's degree in <strong>Software Engineering</strong> at <a href="https://uit.edu.vn">University of Information Technology</a>.</li>
-      <li><img src="image/icon/fire.png" width="20"> I am passionately delving into <strong>Java</strong> and the <strong>Spring Boot Framework</strong>!</li>
-      <li><img src="image/icon/coffee.png" width="20"> I am keen on pursuing a career as a <strong>Backend Developer</strong>.</li>
+      <li><img src="image/icon/fire.png" width="20"> I am passionately delving into <strong>Java</strong> and <strong>ReactJS</strong>!</li>
+      <li><img src="image/icon/coffee.png" width="20"> I am keen on pursuing a career as a <strong>Web Developer</strong>.</li>
       <li><img src="image/icon/mail.png" width="20"> How to reach me: <a href="mailto:nguyenlengocmai000@gmail.com">gmail</a> or <a href="https://www.linkedin.com/in/le-ngoc-mai-nguyen/">linkedin</a></li>
     </ul>
   </div>
