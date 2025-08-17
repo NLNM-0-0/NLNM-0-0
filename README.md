@@ -22,6 +22,10 @@
 
 <h2> <img src="image/icon/star.png" width="30"> Worked application </h2>
 
+- [Stride](https://github.com/NLNM-0-0/stride-be)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mongodb,firebase,kafka,prometheus,docker)](https://skillicons.dev)
+
 - [Internal company Web](https://github.com/NLNM-0-0/company-internal-web)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=java,spring,ts,nextjs,tailwind,mysql,gmail)](https://skillicons.dev)
